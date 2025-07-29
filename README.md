@@ -6,8 +6,11 @@
 <div align=center>
 
 <img width="358" height="412" alt="img" src="https://github.com/user-attachments/assets/2a556dc9-4feb-40b8-b3fc-b50e158e8ca6" />
+<img width="358" height="412" alt="txt2" src="https://github.com/user-attachments/assets/3c5d97fb-3d9c-41e7-b624-76b95a683e04" />
 
-<img width="335" height="412" alt="txt" src="https://github.com/user-attachments/assets/69bd3218-34fc-4064-a474-21ed390dd7b7" />
+
+ />
+
 
 
 </div>
