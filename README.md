@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
+<br><hr>
+
+## Contribuiçoes
   
 <img src="https://raw.githubusercontent.com/J-Paiare/J-Paiare/output/snake.svg" alt="Snake animation" />
 
