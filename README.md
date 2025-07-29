@@ -1,12 +1,14 @@
-## Bem vindo!
-
+<div align=center>
+<strong> Bem vindo!</strong>
+</div>
                                                         
-   
+   <BR>
 <div align=center>
 
 <img width="358" height="412" alt="img" src="https://github.com/user-attachments/assets/2a556dc9-4feb-40b8-b3fc-b50e158e8ca6" />
 
-<img width="335" height="412" alt="txt" src="https://github.com/user-attachments/assets/fb5f67f9-664f-4625-839d-20bbc73c99d3" />
+<img width="335" height="412" alt="txt" src="https://github.com/user-attachments/assets/69bd3218-34fc-4064-a474-21ed390dd7b7" />
+
 
 </div>
    
