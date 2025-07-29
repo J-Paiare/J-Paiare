@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/J-Paiare/J-Paiare/output/snake.svg" alt="Snake animation" />
 
-![snake gif](https://github.com/J-Paiare/J-Paiare/blob/output/github-contribution-grid-snake.gif)
+</div>
