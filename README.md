@@ -1,14 +1,22 @@
-## Hi there 👋
+## Bem vindo!
+
+                                                        
+   
+<div align=center>
+
+<img width="358" height="412" alt="img" src="https://github.com/user-attachments/assets/2a556dc9-4feb-40b8-b3fc-b50e158e8ca6" />
+
+<img width="335" height="412" alt="txt" src="https://github.com/user-attachments/assets/fb5f67f9-664f-4625-839d-20bbc73c99d3" />
+
+</div>
+   
 
 
-![deltarune](https://github.com/user-attachments/assets/550f2803-e316-451a-8df9-0b49977cbcdb)
-
+  
 
 
 
 <!--
-**J-Paiare/J-Paiare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
