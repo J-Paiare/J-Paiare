@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <div align=center>
 <br><hr>
 
-## Contribuiçoes
+DIvirta-se com o Snake e de uma olhada nos meus projetos!
+<br>
   
 <img src="https://raw.githubusercontent.com/J-Paiare/J-Paiare/output/snake.svg" alt="Snake animation" />
 
