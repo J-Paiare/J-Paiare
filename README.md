@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![snake gif](https://github.com/J-Paiare/J-Paiare/blob/output/github-snake-dark.svg)
+![deltarune](https://github.com/user-attachments/assets/550f2803-e316-451a-8df9-0b49977cbcdb)
 
 <!--
 **J-Paiare/J-Paiare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
